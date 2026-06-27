@@ -1,0 +1,21 @@
+{
+  "name": "UILogic",
+  "rootNamespace": "",
+  "references": [
+    "GUID:05ec10d012447a94aa9484f503226cf5",
+    "GUID:3b4b3398df9f5114899a69012e3bf36a",
+    "GUID:0cf53de50da7fc54e9df7a0bd2272373",
+    "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+    "GUID:f51ebe6a0ceec4240a699833d6309b23",
+    "GUID:6055be8ebefd69e48b49212b09b47b2f"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

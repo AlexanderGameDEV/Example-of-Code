@@ -1,0 +1,28 @@
+{
+  "EventId": "TripleOffer_001",
+  "StartTime": "2026-01-01T00:00:00Z",
+  "EndTime": "2027-01-01T00:00:00Z",
+  "OffersConfigs": [
+    {
+      "OfferId": 1,
+      "Amount": 1000,
+      "Price": "1.99$",
+      "ImageAddress": "Sprites/OfferIcons/UI_Graphic_Resource_Coins",
+      "ResourceType": "Coins"
+    },
+    {
+      "OfferId": 2,
+      "Amount": 100,
+      "Price": "2.99$",
+      "ImageAddress": "Sprites/OfferIcons/UI_Graphic_Resource_Gems",
+      "ResourceType": "Gems"
+    },
+    {
+      "OfferId": 3,
+      "Amount": 500,
+      "Price": "0.99$",
+      "ImageAddress": "Sprites/OfferIcons/UI_Graphic_Resource_Iron",
+      "ResourceType": "Iron"
+    }
+  ]
+}

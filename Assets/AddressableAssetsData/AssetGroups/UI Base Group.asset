@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI Base Group
+  m_EditorClassIdentifier: 
+  m_GroupName: UI Base Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 98a4ff9b9f65d8c428417de77739308a
+  m_SerializeEntries:
+  - m_GUID: fa571e1d1bad17f4f9f5e95c674e66df
+    m_Address: HubUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19f9f3248f21d3e42809aa07ca460128
+    m_Address: LoadingCurtain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5903d8084f436b24eb3db511951b0818
+    m_Address: OfferView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d749aa16b821324ba41951761419906
+    m_Address: ShopWindowView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: edb390ecbe9426b4f95f9e4f7c94d0b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 33e40d11c9b7d65499e9f8a359a416e1, type: 2}
+    - {fileID: 11400000, guid: 8445a575fe0640649bf2537ad6110023, type: 2}
